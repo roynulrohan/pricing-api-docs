@@ -4,6 +4,8 @@ This document outlines the URL structure for the purchase plan pages, designed t
 
 **Base URL:** `https://panel.floxy.io`
 
+Append all urls with `autoCheckout=true` at the end for automatic navigation to checkout. See full examples below.
+
 ---
 
 ## Mobile Proxies
